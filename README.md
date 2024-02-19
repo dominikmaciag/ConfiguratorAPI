@@ -45,7 +45,7 @@ Content-Type: application/json
 ### Pobieranie rekordu (GET) 
 
 ```
-GET localhost:8080/configurations/1
+localhost:8080/configurations/1
 Accept: application/json
 ```
 
