@@ -65,5 +65,5 @@ Content-Type: application/json
 ### Usuwanie rekordu (DELETE) 
 
 ```
-DELETE localhost:8080/configurations/1
+localhost:8080/configurations/1
 ```
