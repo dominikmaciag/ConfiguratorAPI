@@ -1,0 +1,12 @@
+com\energysolution\mvp\dto\ConfigurationReadDto.class
+com\energysolution\mvp\repository\ConfigurationRepository.class
+com\energysolution\mvp\model\AddressModel.class
+com\energysolution\mvp\model\DeviceModel.class
+com\energysolution\mvp\repository\DeviceRepository.class
+com\energysolution\mvp\controller\ConfigurationController.class
+com\energysolution\mvp\dto\ConfigurationReqDto.class
+com\energysolution\mvp\utils\mapper\ConfigurationMapper.class
+com\energysolution\mvp\ZadanieRekrutacyjneEnergySolutionApplication.class
+com\energysolution\mvp\service\ConfigurationService.class
+com\energysolution\mvp\model\ConfigurationModel.class
+com\energysolution\mvp\service\DeviceService.class

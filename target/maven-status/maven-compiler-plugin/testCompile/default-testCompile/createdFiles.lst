@@ -1,0 +1,5 @@
+com\energysolution\mvp\utils\mapper\ConfigurationMapperTest.class
+com\energysolution\mvp\service\ConfigurationServiceTest.class
+com\energysolution\mvp\service\DeviceServiceTest.class
+com\energysolution\mvp\ZadanieRekrutacyjneEnergySolutionApplicationTests.class
+com\energysolution\mvp\controller\ConfigurationControllerTest.class
