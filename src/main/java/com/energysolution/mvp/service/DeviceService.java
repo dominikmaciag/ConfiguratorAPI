@@ -34,8 +34,6 @@ public class DeviceService {
     private DeviceModel createNewDevice(String deviceId) {
         DeviceModel newDevice = new DeviceModel();
         newDevice.setIdentifier(deviceId);
-        newDevice.setCreationDate(ZonedDateTime.now());
-        newDevice.setModificationDate(ZonedDateTime.now());
         return deviceRepository.save(newDevice);
     }
 

@@ -8,6 +8,7 @@ Projekt ten obejmuje REST API do zarządzania konfiguracjami urządzeń. Zawiera
 - H2 Database
 - Liquibase
 - Swagger
+- Lombok
 
 ## Konfiguracja bazy danych H2
 
@@ -20,7 +21,7 @@ Hasło: `admin`
 
 ## Liquibase
 
-Projekt wykorzystuje Liquibase do zarządzania migracjami schematu bazy danych. Migracje znajdują się w katalogu `src/main/resources/db/changelog`.
+Projekt wykorzystuje Liquibase do zarządzania migracjami schematu bazy danych. Migracje znajdują się w katalogu `src/main/resources/db/changelog`. Więcej na materiale video: [https://www.youtube.com/playlist?list=PLMUNQkPXyaUBqjCQfrb6l4Qv0AkwFwk8Z](https://www.youtube.com/playlist?list=PLMUNQkPXyaUBqjCQfrb6l4Qv0AkwFwk8Z)
 
 ## Swagger
 

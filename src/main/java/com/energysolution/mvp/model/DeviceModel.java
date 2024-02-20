@@ -24,10 +24,10 @@ public class DeviceModel {
     @Column(name = "MODIFICATION_DATE")
     private ZonedDateTime modificationDate;
 
-    @Column(name = "ACTIVATION_DATE")
+    @Column(name = "LAUNCH_DATE")
     private ZonedDateTime launchDate;
 
-    @Column(name = "DEACTIVATION_DATE")
+    @Column(name = "SHUTDOWN_DATE")
     private ZonedDateTime shutdownDate;
 
     @OneToOne(cascade = CascadeType.ALL)
